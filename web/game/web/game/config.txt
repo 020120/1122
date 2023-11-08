@@ -1,0 +1,5 @@
+Game_name:WebGAL游戏作品;
+Game_key:11a89df5afb8eae;
+Package_name:;
+Title_bgm:s_Title.mp3;
+Title_img:bg.png;
